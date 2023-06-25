@@ -1,11 +1,11 @@
-About r-sentimentanalysis
-=========================
+About r-sentimentanalysis-feedstock
+===================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sentimentanalysis-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/sfeuerriegel/SentimentAnalysis
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sentimentanalysis-feedstock/blob/main/LICENSE.txt)
 
 Summary: Performs a sentiment analysis of textual contents in R. This implementation utilizes various existing dictionaries, such as Harvard IV, or finance-specific dictionaries. Furthermore, it can also create customized dictionaries. The latter uses LASSO regularization as a statistical approach to select relevant terms based on an exogenous response variable.
 
